@@ -1,14 +1,9 @@
 # @fixme400
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="github-metrics.svg" alt="GitHub metrics for fixme400" />
-</td>
-<td valign="top" width="50%">
+🇸🇪 Swedish developer working mainly with Java.
 
-Hello
+<img align="left" src="github-metrics.svg" alt="GitHub stats for fixme400" width="480" />
 
-</td>
-</tr>
-</table>
+I’m interested in backend development, especially the systems behind Minecraft servers. I like digging into how server plugins work and how to keep things running smoothly.
+
+<br clear="both" />
